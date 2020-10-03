@@ -1,0 +1,13 @@
+{
+  "name": "01-JavaScript-Drum-Kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chihoko",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
