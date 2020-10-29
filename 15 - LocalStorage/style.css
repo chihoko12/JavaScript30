@@ -79,3 +79,13 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.checkboxes {
+  display: flex;
+  justify-content: space-around;
+  padding:0;
+}
+
+.checkboxes ul {
+  padding:0;
+}
