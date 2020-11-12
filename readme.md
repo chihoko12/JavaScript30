@@ -67,6 +67,12 @@ Day 19
 Day 20
 ![](images/20.png "Day20")
 
+Day 21
+![](images/21.png "Day21")
+
+Day 22
+![](images/22.png "Day22")
+
 
 ## Alternative Implementations
 Here are some links of people who have done the tutorials, but in a different language or framework:
