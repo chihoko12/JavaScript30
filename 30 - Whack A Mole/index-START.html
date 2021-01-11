@@ -46,7 +46,6 @@
     const idx = Math.floor(Math.random() * holes.length);
     const hole = holes[idx];
     if (hole === lastHole) {
-      console.log('same one');
       return randomHole(holes);
     }
     lastHole = hole;
@@ -56,7 +55,7 @@
   function peep() {
     const time = randomTime(200, 1000);
     const hole = randomHole(holes);
-    console.log(time, hole);
+    hole.classList.add('up');
   }
 
 </script>
